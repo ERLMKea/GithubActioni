@@ -10,4 +10,3 @@ jobs:
         uses: https://github.com/actions/hello-world-javascript-action
         with:
           who-to-greet: John
-      
