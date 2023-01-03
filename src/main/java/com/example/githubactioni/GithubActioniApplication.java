@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GithubActioniApplication {
 
     public static void main(String[] args) {
+        var obj = Math.abs(5.5);
+        System.out.println(obj);
         SpringApplication.run(GithubActioniApplication.class, args);
     }
 
